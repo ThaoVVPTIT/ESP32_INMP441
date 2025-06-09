@@ -3,7 +3,7 @@
 #define I2S_WS 25
 #define I2S_SD 22
 #define I2S_SCK 26
-#define SAMPLE_RATE 4000
+#define SAMPLE_RATE 44100
 #define BUFFER_SIZE 1024
 
 void setup() {
